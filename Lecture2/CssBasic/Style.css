@@ -1,0 +1,13 @@
+section{
+    border: 2px solid salmon;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#sam{
+    border: 2px  dotted black;
+}
+.san{
+    background-color: rgb(75, 71, 71);
+    border: 3px salmon;
+}

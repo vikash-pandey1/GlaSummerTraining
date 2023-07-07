@@ -1,0 +1,18 @@
+body{
+    background-color: purple;
+}
+div{
+    padding: 10px;
+    width: 30%;
+    margin: 10px auto;
+    border: 2px solid red;
+
+}
+h2{
+    text-align: center;
+}
+@media all and (orientation:portrait),(min-width:700px){
+    body{
+        background-color: rgb(28, 214, 214);
+    }
+}

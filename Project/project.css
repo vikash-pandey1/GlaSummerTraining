@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 50;
+    background-color: olivedrab;
+    color: white;
+    font-size: 1.5;
+}
+
+nav ul li {
+    padding: 0 20px;
+}
+
+nav ul input {
+    padding: 0 20px;
+    margin-left: 1;
+}
+
+section {
+    color: white;
+    margin-top: 10px;
+}
+
+.Vikash {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    color: white;
+    height: 150;
+    margin: 1px;
+    padding: 0 10px;
+    border-radius: 5px;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+}
